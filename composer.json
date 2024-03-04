@@ -1,5 +1,5 @@
 {
-    "name": "crzzano/laravel8-planetscale",
+    "name": "x7media/laravel-planetscale",
     "description": "A package for managing Laravel database migrations with Planetscale databases.",
     "license": "MIT",
     "authors": [
